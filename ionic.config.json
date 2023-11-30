@@ -1,0 +1,8 @@
+{
+  "name": "gl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "f671ab77"
+}
